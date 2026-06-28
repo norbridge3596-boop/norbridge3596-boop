@@ -37,11 +37,21 @@ Visit the [store](https://norbridge3596-boop.github.io/store/) for details.
 
 ## 💖 Support
 
-If you find these tools useful:
+### GitHub Sponsors
 
-- [Sponsor on GitHub](https://github.com/sponsors/norbridge3596-boop)
-- [Sponsor on GitHub](https://github.com/sponsors/norbridge3596-boop)
-- [Purchase templates](https://norbridge3596-boop.github.io/store/)
+These tools are built 24/7 by an automated agent. Sponsorship keeps the automation running and funds new tool development.
+
+| Tier | Monthly | Perks |
+|------|---------|-------|
+| 🛠️ Supporter | $3 | Early access to new tools, supporter badge |
+| ⚡ Accelerator | $10 | Priority feature requests, direct support channel |
+| 🏭 Automation Partner | $50 | Custom tool development, commercial license |
+
+[**Sponsor on GitHub →**](https://github.com/sponsors/norbridge3596-boop)
+
+### One-Time Support
+
+- [Purchase templates](https://norbridge3596-boop.github.io/store/) — PDF planners and checklists for makers
 
 ---
 
