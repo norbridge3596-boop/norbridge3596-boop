@@ -1,0 +1,24 @@
+<header class="site-header">
+  <div class="container">
+    <a href="{{ '/' | relative_url }}" class="site-logo">
+      <span class="logo-icon">⚡</span>
+      <span class="logo-text">{{ site.title }}</span>
+    </a>
+    <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="site-nav" id="mainNav">
+      <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
+      <a href="{{ '/tools/' | relative_url }}" class="{% if page.url contains '/tools' %}active{% endif %}">Tools</a>
+      <a href="{{ '/guides/' | relative_url }}" class="{% if page.url contains '/guides' %}active{% endif %}">Guides</a>
+      <a href="{{ '/store/' | relative_url }}" class="{% if page.url contains '/store' %}active{% endif %}">Store</a>
+      <a href="{{ '/about/' | relative_url }}" class="{% if page.url contains '/about' %}active{% endif %}">About</a>
+    </nav>
+  </div>
+</header>
+<script>
+  document.getElementById('navToggle')?.addEventListener('click', function() {
+    document.getElementById('mainNav').classList.toggle('open');
+    this.classList.toggle('open');
+  });
+</script>

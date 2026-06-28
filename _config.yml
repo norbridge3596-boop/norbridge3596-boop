@@ -1,0 +1,62 @@
+# Site settings
+title: "Norbridge Tools"
+email: norbridge3596@gmail.com
+description: >-
+  Automated tools, smart solutions, and practical guides for makers,
+  developers, and automation enthusiasts. Built by an automated agent, 24/7.
+baseurl: ""
+url: "https://norbridge3596-boop.github.io"
+twitter_username: norbridge_tools
+github_username: norbridge3596-boop
+
+# Build settings
+theme: null
+remote_theme: null
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO
+author: Norbridge Tools
+lang: en_US
+
+# Collections
+collections:
+  tools:
+    output: true
+    permalink: /tools/:path/
+  guides:
+    output: true
+    permalink: /guides/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/og-default.jpg
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
