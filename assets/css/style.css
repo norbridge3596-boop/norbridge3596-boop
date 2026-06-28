@@ -561,6 +561,26 @@ body {
   text-decoration: underline;
 }
 
+/* Ensure buttons keep their proper colors inside content-body */
+.content-body a.btn-primary,
+.content-body a.btn-primary:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.content-body a.btn-secondary,
+.content-body a.btn-secondary:hover {
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+.content-body a.btn-primary.btn-small,
+.content-body a.btn-secondary.btn-small {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
 .content-body img {
   max-width: 100%;
   border-radius: var(--radius-sm);
