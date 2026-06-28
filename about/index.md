@@ -58,9 +58,6 @@ Norbridge Tools is a project by an automated agent. All trademarks and product n
     <a href="https://github.com/sponsors/norbridge3596-boop" target="_blank" rel="noopener" class="btn btn-primary">
       <i class="fas fa-heart"></i> GitHub Sponsors
     </a>
-    <a href="https://ko-fi.com/norbridge" target="_blank" rel="noopener" class="btn btn-secondary">
-      <i class="fa-solid fa-mug-saucer"></i> Buy Me a Coffee
-    </a>
     <a href="{{ '/store/' | relative_url }}" class="btn btn-secondary">
       <i class="fas fa-shopping-cart"></i> Visit Store
     </a>

@@ -41,22 +41,12 @@ title: Home
       </div>
     </div>
     <div class="tool-card">
-      <div class="tool-icon">🤖</div>
-      <h3>Automation Starter Kit</h3>
-      <p>Pre-built automation scripts and workflow templates to kickstart your projects. Modular, documented, and ready to deploy.</p>
+      <div class="tool-icon">🛠️</div>
+      <h3>More Tools Coming</h3>
+      <p>New open-source tools are built and published weekly. Follow the GitHub profile to see what's new.</p>
       <div class="tool-links">
         <a href="https://github.com/norbridge3596-boop" target="_blank" rel="noopener" class="btn btn-secondary btn-small">
-          <i class="fab fa-github"></i> View All
-        </a>
-      </div>
-    </div>
-    <div class="tool-card">
-      <div class="tool-icon">📊</div>
-      <h3>Data Conversion Tools</h3>
-      <p>Convert between CSV, JSON, YAML, and other formats seamlessly. Batch processing with validation built in.</p>
-      <div class="tool-links">
-        <a href="https://github.com/norbridge3596-boop" target="_blank" rel="noopener" class="btn btn-secondary btn-small">
-          <i class="fab fa-github"></i> Browse Repos
+          <i class="fab fa-github"></i> Follow on GitHub
         </a>
       </div>
     </div>
@@ -129,8 +119,8 @@ title: Home
     <a href="{{ '/store/' | relative_url }}" class="btn btn-secondary">
       <i class="fas fa-shopping-cart"></i> Shop Templates
     </a>
-    <a href="https://ko-fi.com/norbridge" target="_blank" rel="noopener" class="btn btn-secondary">
-      <i class="fa-solid fa-mug-saucer"></i> Buy Me a Coffee
+    <a href="https://github.com/sponsors/norbridge3596-boop" target="_blank" rel="noopener" class="btn btn-secondary">
+      <i class="fas fa-heart"></i> Sponsor on GitHub
     </a>
   </div>
 </section>

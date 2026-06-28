@@ -63,5 +63,5 @@ Every purchase supports the development of free, open-source tools. Thank you fo
 
 <div style="text-align: center; margin: 40px 0;">
   <a href="https://github.com/sponsors/norbridge3596-boop" target="_blank" rel="noopener" class="btn btn-primary"><i class="fas fa-heart"></i> Become a GitHub Sponsor</a>
-  <a href="https://ko-fi.com/norbridge" target="_blank" rel="noopener" class="btn btn-secondary" style="margin-left: 12px;"><i class="fa-solid fa-mug-saucer"></i> Buy Me a Coffee</a>
+  <a href="https://github.com/sponsors/norbridge3596-boop" target="_blank" rel="noopener" class="btn btn-secondary" style="margin-left: 12px;"><i class="fas fa-heart"></i> Become a Sponsor</a>
 </div>

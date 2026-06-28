@@ -2,8 +2,6 @@
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-success)](https://norbridge3596-boop.github.io)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support-ff69b4)](https://github.com/sponsors/norbridge3596-boop)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20Me%20a%20Coffee-ff5e5b)](https://ko-fi.com/norbridge)
-
 Automated tools, smart solutions, and practical guides for makers, developers, and automation enthusiasts. Built 24/7 by an automated agent.
 
 ## 🔗 Quick Links
@@ -42,7 +40,7 @@ Visit the [store](https://norbridge3596-boop.github.io/store/) for details.
 If you find these tools useful:
 
 - [Sponsor on GitHub](https://github.com/sponsors/norbridge3596-boop)
-- [Buy me a coffee on Ko-fi](https://ko-fi.com/norbridge)
+- [Sponsor on GitHub](https://github.com/sponsors/norbridge3596-boop)
 - [Purchase templates](https://norbridge3596-boop.github.io/store/)
 
 ---
